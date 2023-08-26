@@ -12,6 +12,10 @@ div {
 }
 
 .h1 {
-    background-color: black;
     color:red;
 }
+
+body {
+    background: black;
+}
+
